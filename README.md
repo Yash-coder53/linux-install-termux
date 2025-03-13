@@ -26,7 +26,7 @@ Requirements
 - Internet connection
 
 Installation
-1. Clone this repository: git clone https://github.com/your-username/linux-install-termux.git
+1. Clone this repository: git clone https://github.com/Yash-coder53/linux-install-termux.git
 2. Navigate to the repository directory: cd linux-install-termux
 3. Install the required dependencies: pip install -r requirements.txt
 4. Run the installation script: python3 install.py
