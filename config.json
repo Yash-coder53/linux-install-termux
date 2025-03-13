@@ -1,0 +1,18 @@
+{
+    "distro": "ubuntu",
+    "version": "latest",
+    "arch": "amd64",
+    "mirror": "https://mirror.math.princeton.edu/pub/ubuntu-archive/",
+    "packages": [
+        "ubuntu-desktop",
+        "openssh-server",
+        "git",
+        "curl",
+        "wget",
+        "nano"
+    ],
+    "username": "termux",
+    "password": "termux",
+    "locale": "en_US.UTF-8",
+    "timezone": "America/New_York"
+}
